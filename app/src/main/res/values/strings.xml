@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Brizz</string>
+
+    <string name="Ques1">What is the most abundent protein in the human body? </string>//collagen
+    <string name="Ques2">Which of these is not a nobel gas?</string>//chlorine
+    <string name="Ques3">Which of these are isotopes of hydrogen?</string>
+    <string name="Ques4">Who created modern periodic table?</string>//Mendeleev
+    <string name="Ques5">Which compounds are common in all organic molecules?</string>
+    <string name="ans3">Hydrogen Carbon</string>
+    <string name="Ques6">Symbol Ag stands for which element? </string>//silver
+    <string name="Ques7">In solution of salt water,salt is:</string>//solute
+    <string name="Ques8">Which element is not liquid at room temperature?</string>//mg
+</resources>
